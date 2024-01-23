@@ -18,6 +18,7 @@
 - Business Analysis
 - Agile Methodology
 - Problem-Solving
+- Cognos 10
 
 🔍 Certifications:
 - Google Data Analytics Certificate
